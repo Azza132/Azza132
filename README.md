@@ -70,7 +70,7 @@ AI is used to:
 - Refine logic  
 - Improve debugging efficiency  
 
-Strategic decisions, system design, and final implementation direction remain fully human-led. AI acts as leverage — not replacement.
+Strategic decisions, system design, and final implementation direction remain fully human-led. 
 
 ---
 
