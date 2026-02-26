@@ -8,7 +8,7 @@
 
 ## Profile
 
-I am a self-directed developer focused on building practical software that solves real problems.
+I am a self-directed developer focused on building practical software that solves real problems. Occasionally, I will build games.
 
 My work is driven by necessity rather than trend. I build tools that I personally rely on in my day-to-day and professional life. If something creates friction, slows execution, or does not exist in the right form, I design and implement a solution.
 
