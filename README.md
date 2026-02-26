@@ -100,14 +100,9 @@ while problem_exists:
 
 ---
 
-## Contact
+## End
 
-If any project here is useful to you, feel free to use it.
-
-For questions, suggestions, or collaboration:
-- Open an issue  
-- Start a discussion  
-- Reach out directly  
+If any project here is useful to you, feel free to use it. 
 
 ```
 > End of transmission.
