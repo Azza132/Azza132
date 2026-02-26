@@ -1,127 +1,121 @@
 <!-- ================= CYBERPUNK SYSTEM INITIALIZATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aaron+Sermon;Self-Directed+Developer;Builder+of+Useful+Systems;Cyberpunk+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+my+name+is+Aaron+Sermon;Self-Directed+Developer;Builder+of+Useful+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00F7FF&height=200&section=header&text=ENTER%20THE%20SYSTEM&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00F7FF&height=180&section=header&text=AZZA132%20SYSTEM&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- MATRIX RAIN -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%" />
-</p>
+---
 
-# 🧠 SYSTEM IDENTITY
+# 🧠 IDENTITY
 
 ```diff
-+ Status: Building
++ Name: Aaron Sermon
 + Mode: Self-Directed
++ Stack: Python + HTML
++ AI-Assisted: ChatGPT + Claude
 + Priority: Usefulness
-+ Signal > Noise
 ```
 
-I build software I *actually use*.
+I build software I actually use.
 
 If something:
-- ⚠️ creates friction  
-- ⏳ wastes time  
-- 🧩 doesn’t exist in the right form  
+- slows me down  
+- creates friction  
+- doesn’t exist in the right form  
 
-I engineer it.
+I build it.
 
 No trend-chasing.  
-No filler projects.  
-Only tools with purpose.
+No portfolio filler.  
+Only tools that solve real problems in my day-to-day and professional life.
 
-<!-- GLITCH DIVIDER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="100%" />
-</p>
+---
 
 # ⚡ WHAT I BUILD
 
 ## 🧠 Personal Productivity Systems
+Applications designed to:
+- Organise information clearly  
+- Reduce cognitive friction  
+- Improve execution speed  
 
-Custom-built applications that optimize:
-- Thought flow  
-- Information architecture  
-- Task orchestration  
-
-Designed around **my workflow**, not generic use cases.
+Built around **my workflow**, not generic templates.
 
 ---
 
 ## 🏢 Professional Utilities
-
-Precision-built tools:
-- 🧰 Engineered beyond “good enough”
-- 🎯 Practical over flashy
-- ⚙️ Built for execution
+Tools tailored to real-world usage:
+- Practical over flashy  
+- Refined beyond “just working”  
+- Built to a standard I’d genuinely rely on  
 
 ---
 
-## 🔁 COMMON THREAD
-
-> Every project begins with friction.  
-> Every solution exists because it was needed.  
-> Usefulness over noise — always.
-
-<!-- MATRIX RAIN MID SECTION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
-
-# 🧬 CORE STACK
+# 🧬 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html" />
 </p>
 
-### 🐍 Python
-Automation • Data Handling • Back-end Logic • Scripting
+## 🐍 Python
+- Automation  
+- Scripting  
+- Data handling  
+- Back-end logic  
 
-### 🌐 HTML / CSS / JavaScript
-Interfaces • Browser Tools • Interactive Systems
+## 🌐 HTML
+- Clean, functional interfaces  
+- Browser-based tools  
+- Lightweight front-end systems  
 
-### 🤖 AI-Assisted Development
-Human-directed. Machine-accelerated.
-- Rapid iteration  
-- Faster problem solving  
-- Structured build cycles  
+---
 
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-</p>
+# 🤖 DEVELOPMENT WORKFLOW
+
+I build using AI-assisted development as part of my process.
+
+### Tools:
+- ChatGPT  
+- Claude AI  
+
+AI accelerates:
+- Problem solving  
+- Iteration cycles  
+- Debugging  
+- Structuring logic  
+
+Direction and decision-making remain human.  
+AI is leverage — not replacement.
+
+---
 
 # 📊 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F7FF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azza132&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F7FF&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=00F7FF&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azza132&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=00F7FF&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=39FF14&line=00F7FF&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azza132&theme=react-dark&bg_color=0D1117&color=39FF14&line=00F7FF&point=ffffff&hide_border=true" />
 </p>
 
-<!-- HEAVY MATRIX RAIN -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
-</p>
+---
 
 # 🧭 DEVELOPMENT PHILOSOPHY
 
-```bash
-while(problem_exists):
+```python
+while problem_exists:
     identify_friction()
     design_solution()
-    build_fast()
+    build()
     refine_until_useful()
 ```
 
@@ -129,12 +123,12 @@ while(problem_exists):
 
 # 🔗 CONNECT
 
-If something here resonates:
+If something here is useful:
 
-- ⭐ Fork it  
+- ⭐ Use it  
 - 🐛 Open an issue  
 - 💬 Start a discussion  
-- 🤝 Build something ambitious  
+- 🤝 Collaborate  
 
 ---
 
