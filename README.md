@@ -1,7 +1,7 @@
 <!-- ================= PROFESSIONAL TERMINAL PROFILE ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+my+name+is+Aaron+Sermon.;I+am+a+self-directed+developer.;I+build+practical+software+that+solves+real+problems.;Python+and+HTML+with+AI-assisted+development." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+my+name+is+Aaron+Sermon.;I+am+a+self-directed+developer.;I+build+practical+software+that+solves+real+problems.;Python%2C+HTML%2C+C%23%2C+CSS%2C+JavaScript%2C+and+Twine." />
 </p>
 
 ---
@@ -38,16 +38,20 @@ Every project begins with a real-world need.
 ## Technical Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=39FF14&center=true&vCenter=true&width=600&lines=Python;HTML;ChatGPT;Claude+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=39FF14&center=true&vCenter=true&width=700&lines=Python;HTML;C%23;CSS;JavaScript;Twine" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html" />
+  <img src="https://skillicons.dev/icons?i=python,html,cs,css,js" />
 </p>
 
 ### Languages
 - **Python** — automation, scripting, data handling, application logic  
-- **HTML** — clean, functional interfaces and browser-based tools  
+- **HTML** — clean, structured interfaces  
+- **C#** — application development, game logic, backend systems  
+- **CSS** — styling, layout systems, responsive design  
+- **JavaScript** — interactivity, dynamic UI behavior  
+- **Twine** — interactive fiction and narrative game development  
 
 I intentionally work within a focused stack to maintain depth, clarity, and execution speed.
 
@@ -96,16 +100,3 @@ while problem_exists:
     design_solution()
     implement()
     refine_until_useful()
-```
-
----
-
-## End
-
-If any project here is useful to you, feel free to use it. 
-
-```
-> End of transmission.
-```
-
-<!-- ================= END ================= -->
