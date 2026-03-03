@@ -25,14 +25,6 @@ Purpose-built tools designed to:
 
 These systems are tailored around my own working methods rather than generalized use cases.
 
-### Professional Utilities
-Applications built to a standard I would genuinely depend on:
-- Practical and efficient  
-- Minimal and focused  
-- Refined beyond “just working”  
-
-Every project begins with a real-world need.
-
 ---
 
 ## Technical Stack
@@ -51,9 +43,8 @@ Every project begins with a real-world need.
 - **C#** — application development, game logic, backend systems  
 - **CSS** — styling, layout systems, responsive design  
 - **JavaScript** — interactivity, dynamic UI behavior  
-- **Twine** — interactive fiction and narrative game development  
-
-I intentionally work within a focused stack to maintain depth, clarity, and execution speed.
+- **Twine** — interactive fiction and narrative game development
+  
 
 ---
 
