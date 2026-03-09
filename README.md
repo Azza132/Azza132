@@ -1,7 +1,6 @@
 <!-- ================= PROFESSIONAL TERMINAL PROFILE ================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+my+name+is+Aaron+Sermon.;I+am+a+self-directed+developer.;I+build+practical+software+that+solves+real+problems.;Python%2C+HTML%2C+C%23%2C+CSS%2C+JavaScript%2C+and+Twine." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+my+name+is+Aaron+Sermon.;I+am+a+self-directed+developer.;I+build+practical+software+that+solves+real+problems.;Python%2C+HTML%2C+C%23%2C+CSS%2C+JavaScript%2C+Twine%2C+and+Shell." />
 </p>
 
 ---
@@ -17,6 +16,7 @@ I build tools that I personally rely on in my day-to-day and professional life. 
 ## Areas of Focus
 
 ### Personal Productivity Systems
+
 Purpose-built tools designed to:
 - Reduce cognitive load  
 - Structure information effectively  
@@ -30,11 +30,11 @@ These systems are tailored around my own working methods rather than generalized
 ## Technical Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=39FF14&center=true&vCenter=true&width=700&lines=Python;HTML;C%23;CSS;JavaScript;Twine" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=39FF14&center=true&vCenter=true&width=700&lines=Python;HTML;C%23;CSS;JavaScript;Twine;Shell" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,cs,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,cs,css,js,bash" />
 </p>
 
 ### Languages
@@ -43,8 +43,8 @@ These systems are tailored around my own working methods rather than generalized
 - **C#** — application development, game logic, backend systems  
 - **CSS** — styling, layout systems, responsive design  
 - **JavaScript** — interactivity, dynamic UI behavior  
-- **Twine** — interactive fiction and narrative game development
-  
+- **Twine** — interactive fiction and narrative game development  
+- **Shell** — environment automation, build scripts, tooling and server orchestration
 
 ---
 
@@ -53,7 +53,6 @@ These systems are tailored around my own working methods rather than generalized
 ### AI-Assisted Engineering
 
 I incorporate AI tools directly into my development workflow:
-
 - ChatGPT  
 - Claude AI  
 
@@ -72,11 +71,9 @@ Strategic decisions, system design, and final implementation direction remain fu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azza132&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azza132&theme=radical&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azza132&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&hide_border=true" />
 </p>
@@ -91,3 +88,4 @@ while problem_exists:
     design_solution()
     implement()
     refine_until_useful()
+```
